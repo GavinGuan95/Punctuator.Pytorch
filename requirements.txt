@@ -1,0 +1,10 @@
+python-levenshtein
+torch
+visdom
+wget
+librosa
+tqdm
+Bio
+google
+inflect
+bs4
